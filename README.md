@@ -4,4 +4,4 @@
 - I speak: English, Arabic (learning Russian)
 - Contact me at: discord @voidsec_
 - ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kktavoidsec&layout=compact)
-- ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME)
+- ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kktavoidsec)
