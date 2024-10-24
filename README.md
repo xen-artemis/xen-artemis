@@ -3,6 +3,6 @@
 - I'm currently learning: C, C++
 - I speak: English, Arabic (learning Russian)
 - Contact me at: discord @void_sec. (period included)
-- ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kktavoidsec&layout=compact)
+- ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xen-artemis&layout=compact)
 - ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kktavoidsec)
 - ![My stats](https://github-readme-stats.vercel.app/api?username=kktavoidsec&count_private=true&show_icons=true)
